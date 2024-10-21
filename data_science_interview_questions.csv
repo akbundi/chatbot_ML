@@ -1,0 +1,11 @@
+question,response
+What is the difference between supervised and unsupervised learning?,"Supervised learning uses labeled data for training, while unsupervised learning uses unlabeled data to find patterns."
+What is overfitting in machine learning?,Overfitting occurs when a model performs well on training data but poorly on unseen data due to excessive complexity.
+How do you handle missing data in a dataset?,"Missing data can be handled using techniques like mean/mode/median imputation, removing rows, or using algorithms that handle missing data."
+Explain the concept of cross-validation.,Cross-validation is a technique to evaluate the generalization ability of a model by splitting the data into multiple training and testing sets.
+What is the bias-variance tradeoff?,The bias-variance tradeoff is the balance between a model's accuracy on training data (low bias) and its ability to generalize to new data (low variance).
+What are precision and recall?,"Precision is the ratio of true positives to all predicted positives, while recall is the ratio of true positives to all actual positives."
+What is a confusion matrix?,A confusion matrix is a table used to evaluate the performance of a classification model by comparing actual and predicted labels.
+What is gradient descent?,Gradient descent is an optimization algorithm used to minimize the loss function by iteratively moving in the direction of the steepest descent.
+Explain the concept of regularization.,Regularization is a technique used to prevent overfitting by adding a penalty to the loss function for large coefficients in the model.
+What is a random forest?,A random forest is an ensemble learning method that builds multiple decision trees and merges them to improve accuracy and avoid overfitting.
